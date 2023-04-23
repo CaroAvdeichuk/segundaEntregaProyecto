@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 4,
+        "name": "Mochila",
+        "colour": "Blanca",
+        "price": 10000,
+        "stock": 30,
+        "img": "/img/bag.jpg"  
+    },
+    {
+        "id": 2,
+        "idCategoria": 4,
+        "name": "Mochila",
+        "colour": "Azul",
+        "price": 12500,
+        "stock": 15,
+        "img": "/img/blueBag.jpg"  
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "name": "Jeans",
+        "colour": "Azul",
+        "price": 7500,
+        "stock": 20,
+        "img": "/img/blueJeans.jpg"  
+    },
+    {
+        "id": 4,
+        "idCategoria": 3,
+        "name": "Remera",
+        "colour": "Turquesa",
+        "price": 2500,
+        "stock": 25,
+        "img": "/img/blueTshirt.jpg"  
+    },
+    {
+        "id": 5,
+        "idCategoria": 4,
+        "name": "Bufanda",
+        "colour": "A cuadros",
+        "price": 1200,
+        "stock": 15,
+        "img": "/img/bootsAndScarf.jpg"  
+    },
+    {
+        "id": 6,
+        "idCategoria": 4,
+        "name": "Pañuelos",
+        "colour": "Varios",
+        "price": 900,
+        "stock": 25,
+        "img": "/img/coloredScarves.jpg"  
+    },
+    {
+        "id": 7,
+        "idCategoria": 4,
+        "name": "Medias",
+        "colour": "Varios",
+        "price": 500,
+        "stock": 50,
+        "img": "/img/coloredSocks.jpg"  
+    },
+    {
+        "id": 8,
+        "idCategoria": 2,
+        "name": "Sweaters",
+        "colour": "Varios",
+        "price": 4000,
+        "stock": 30,
+        "img": "/img/coloredSweaters.jpg"  
+    },
+    {
+        "id": 9,
+        "idCategoria": 4,
+        "name": "Pantuflas",
+        "colour": "Celestes",
+        "price": 5000,
+        "stock": 20,
+        "img": "/img/flipflops.jpg"  
+    },
+    {
+        "id": 10,
+        "idCategoria": 2,
+        "name": "Sweater",
+        "colour": "Gris",
+        "price": 4500,
+        "stock": 15,
+        "img": "/img/greySweater.jpg"  
+    },
+    {
+        "id": 11,
+        "idCategoria": 3,
+        "name": "Remera",
+        "colour": "Gris Topo",
+        "price": 2700,
+        "stock": 20,
+        "img": "/img/greyTshirt.jpg"  
+    },
+    {
+        "id": 12,
+        "idCategoria": 4,
+        "name": "Sombrero",
+        "colour": "Azul",
+        "price": 3000,
+        "stock": 10,
+        "img": "/img/hat.jpg"  
+    },
+    {
+        "id": 13,
+        "idCategoria": 2,
+        "name": "Campera",
+        "colour": "Rosa Viejo",
+        "price": 8000,
+        "stock": 20,
+        "img": "/img/pinkHoody.jpg"  
+    },
+    {
+        "id": 14,
+        "idCategoria": 1,
+        "name": "Jeans",
+        "colour": "Rosa",
+        "price": 6000,
+        "stock": 10,
+        "img": "/img/pinkJeans.jpg"  
+    },
+    {
+        "id": 15,
+        "idCategoria": 3,
+        "name": "Remera",
+        "colour": "Bordó",
+        "price": 2300,
+        "stock": 20,
+        "img": "/img/redTshirt.jpg"  
+    },
+    {
+        "id": 16,
+        "idCategoria": 1,
+        "name": "Shorts",
+        "colour": "Varios",
+        "price": 5000,
+        "stock": 15,
+        "img": "/img/summerShorts.jpg"  
+    },
+    {
+        "id": 17,
+        "idCategoria": 1,
+        "name": "Jeans",
+        "colour": "Blanco",
+        "price": 8000,
+        "stock": 25,
+        "img": "/img/whiteJeans.jpg"  
+    },
+    {
+        "id": 18,
+        "idCategoria": 2,
+        "name": "Sweater",
+        "colour": "Blanco",
+        "price": 3500,
+        "stock": 20,
+        "img": "/img/whiteSweater.jpg"  
+    },
+    {
+        "id": 19,
+        "idCategoria": 3,
+        "name": "Remera",
+        "colour": "Blanca",
+        "price": 2400,
+        "stock": 35,
+        "img": "/img/whiteTshirt.jpg"  
+    },
+    {
+        "id": 20,
+        "idCategoria": 1,
+        "name": "Jeans",
+        "colour": "Celeste",
+        "price": 7500,
+        "stock": 20,
+        "img": "/img/womanJeans.jpg"  
+    },
+    {
+        "id": 21,
+        "idCategoria": 1,
+        "name": "Shorts",
+        "colour": "Celeste",
+        "price": 4000,
+        "stock": 10,
+        "img": "/img/womanShorts.jpg"  
+    },
+    {
+        "id": 22,
+        "idCategoria": 2,
+        "name": "Sweater",
+        "colour": "Amarillo",
+        "price": 3800,
+        "stock": 20,
+        "img": "/img/yellowSweater.jpg"  
+    },
+    {
+        "id": 23,
+        "idCategoria": 3,
+        "name": "Remeras",
+        "colour": "Varios",
+        "price": 2700,
+        "stock": 20,
+        "img": "/img/coloredTshirts.jpg"  
+    },
+    {
+        "id": 24,
+        "idCategoria": 4,
+        "name": "Morral",
+        "colour": "Negro",
+        "price": 9500,
+        "stock": 20,
+        "img": "/img/blackbag.jpg"  
+    }
+]
